@@ -39,6 +39,10 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 * Implement an API.
 * Add more comprehensive testing (unit, integration, end-to-end).
 
+## Deployment
+
+* Website is hosted here: https://jobboardclone.netlify.app/
+
 ## Author
 
 Aryan Kashyap
