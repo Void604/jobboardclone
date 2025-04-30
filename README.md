@@ -45,6 +45,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Author
 
-Aryan Kashyap
-aryankashyap7899@gmail.com
-[My Github Profile](https://github.com/Void604)
+* Aryan Kashyap
+* aryankashyap7899@gmail.com
+* [My Github Profile](https://github.com/Void604)
